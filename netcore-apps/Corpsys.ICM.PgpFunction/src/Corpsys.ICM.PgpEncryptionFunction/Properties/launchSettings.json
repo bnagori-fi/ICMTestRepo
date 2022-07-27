@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Corpsys.ICM.PgpEncryptionFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7072",
+      "launchBrowser": false
+    }
+  }
+}
